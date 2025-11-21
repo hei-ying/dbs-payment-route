@@ -1,0 +1,5 @@
+{
+  "name": "PayRoute Viz",
+  "description": "Dynamic payment routing visualization tool demonstrating FPS, ACT, RTGS, and TT selection logic based on transaction parameters.",
+  "requestFramePermissions": []
+}
